@@ -4,9 +4,6 @@
 <a href="https://elephantfish.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"> 
 </a>
-<a href="https://vagabond-snake-4bf.notion.site/Dongwon-Ko-190d3128995c80a7a702f9db024ba791?pvs=4" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-</a>
 <a href="mailto:dw9706@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/dw9706@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
