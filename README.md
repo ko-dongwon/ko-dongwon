@@ -25,23 +25,28 @@
 
 
 
-## 🛠 Core Skills 🛠
+## 🛠 Main Skills 🛠
 
-<!-- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> -->
+
+
         
 ### Language
-- Java 
-- Python
+<div>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">        
+</div>
 
 ### Framework
-- Spring Boot
-- JPA
+<div>
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
+</div>
 
 ### Database
-- MySQL 
-
-
+<div>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+        
+</div>
 <br>
 
 
