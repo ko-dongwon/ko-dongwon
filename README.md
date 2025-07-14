@@ -58,5 +58,6 @@
 <br>
 
 ## 💪 Experience 💪
+- SEOULTECH (2016.03 ~ 2024.08)
 - NHN Academy 8기 (2024.08 ~ 2025.01)
 <br>
