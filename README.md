@@ -3,11 +3,11 @@
 <br><br>
 
 <!-- Contact -->
-<a href="https://elephantfish.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"> 
+<a href="https://velog.io/@kodongwon/posts">
+        <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"> 
 </a>
 <a href="mailto:dw9706@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/dw9706@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dw9706@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 <br><br>
 
