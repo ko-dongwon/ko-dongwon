@@ -3,9 +3,9 @@
 <br><br>
 
 <!-- Contact -->
-<a href="https://velog.io/@kodongwon/posts">
+<!-- <a href="https://velog.io/@kodongwon/posts">
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"> 
-</a>
+</a> -->
 <a href="mailto:dw9706@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/dw9706@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </a>
